@@ -28,6 +28,10 @@ h1 {
     display: block;
 }
 
+
+i{
+    color: rgb(0, 0, 125);
+}
 h2 {
     color: navy;
     font-size: 1.2em;
